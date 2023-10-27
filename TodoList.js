@@ -60,9 +60,11 @@ const styles = StyleSheet.create({
     backgroundColor: 'white',
   },
   content:{
+    flex: 1,
     padding: 40,
   },
   list: {
+    flex: 1,
     marginTop: 60,
     
   }
